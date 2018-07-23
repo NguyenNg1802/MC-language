@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(sayHello),List(VarDecl(Id(a),IntType)),VoidType,Block(List(),List(CallExpr(Id(printf),List(StringLiteral(Hello))),Return(None))))))

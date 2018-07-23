@@ -1,0 +1,107 @@
+Run starting. Expected test count is: 0
+CodeGenSuite:
+- print an int
+- print a float
+- print another float
+- print a string
+- print a boolean
+- print a global int variable without assign
+- print a global float variable without assign
+- print a global string variable without assign
+- print a global boolean variable without assign
+- print a global int array element without assign
+- print a global string array element without assign
+- unary expr: print a negative integer
+- unary expr: print a negative float
+- unary expr: print a not boolean
+- binary expr: print a assigned int varible
+- binary expr: print a assigned float varible
+- binary expr: print another assigned float varible
+- binary expr: print a assigned local array element of integer
+- binary expr: print a assigned local array element of string
+- binary expr: print result of a more complex assignment for int
+- binary expr: print result of another complex assignment for float
+- binary expr: print result of another complex assignment
+- binary expr: print a result of simple binary expr of + between int,int
+- binary expr: print a result of more complex binary expr of + between int,int
+- binary expr: print a result of simple binary expr of - between int
+- binary expr: print a result of more complex binary expr of - between int,int
+- binary expr: print a result of simple binary expr of + between float,int
+- binary expr: print a result of more complex binary expr of + between float,int
+- binary expr: print a result of simple binary expr of - between float,int
+- binary expr: print a result of more complex binary expr of +,- between int
+- binary expr: print a result of more complex binary expr of +,- between float,int
+- binary expr: print a result of binary expr of * between int
+- binary expr: print a result of binary expr of / between int
+- binary expr: print a result of binary expr of / between float
+- binary expr: print a result of more complex binary expr of *,/ between int
+- binary expr: print a result of more complex binary expr of *,/ between float
+- binary expr: print a result of more complex binary expr of +,-,*,/ between int,float
+- binary expr: print a result of a simple binary expr of %
+- binary expr: print a result of binary expr of % and other binary ops
+- binary expr: print a result of more complex binary expr of % and other binary ops
+- binary expr: print a result of a more complex simple binary expr of % and other binary ops
+- binary expr: print a result of simple binary expr of < between int
+- binary expr: print a result of simple binary expr of > between int
+- binary expr: print a result of simple binary expr of && between simple binary expressions
+- binary expr: print a result of a more complex expr of && between array element of bool type
+- binary expr: print 2 results of simple binary expr of && to check short circuit
+- binary expr: print a result of simple binary expr of || between simple binary expressions
+- binary expr: print a result of a more complex expr of || between array element of bool type
+- binary expr: print 3 results of simple binary expr of || to check short circuit
+- binary expr: print result of a combination of ||,&& to check short circuit
+- binary expr: print result of simple binary expr of ==
+- binary expr: print result of more complex binary expr of == with other binary operations
+- binary expr: print result of simple binary expr of != 
+- binary expr: print result of more complex simple binary expr of != with other binary operations
+- binary expr: print result of a complex binary binary expr of !=,== and other binary operations
+- binary expr: print result of another a complex binary binary expr of !=,== and other binary operations
+- call expr: print 1 using a function call with no input
+- call expr: print sum of 2 number using a function call with no return
+- call expr: print result of a sum of interger using function return result
+- call expr: print result of a multiplication of float using function
+- call expr: print result of test using integer into float input function
+- call expr: print a first element of array that is assigned through calling function
+- call expr: print a second element of a array pointer return by a function
+- call expr: print result of test using a result of a function as input to call other function
+- call expr: print list of smaller numbers than the input value using a simple recursive function
+- call expr: print result of a recursive function call
+- call expr: print result of sum of two return result of call expr
+- call expr: print result of and of two return result of call expr
+- call expr: print result of or of two return result of call expr
+- block statement: print value of integer variable inside the block
+- block statement: print value of float variable inside the block
+- block statement: print value of variable inside the nested block
+- if statement: print result of assigned varible using a if stmt without else
+- if statement: print result of assigned variable using a more complex if stmt without else
+- if statement: print result of calling function using a if stmt with else
+- if statement: print 2 result of a more complex if with else
+- if statement: print result varible modified with if statement inside another if stmt without else
+- if statement: print result of varible modified with if statement inside another if stmt with else
+- if statement: print result of variable modified with if statement inside a block statment
+- call expr: print result of boolean using call expr to check if the input is odd number
+- for statement: print result of varible after modified with a simple for stmt
+- for statement: print result of variable after modified with for stmt that contains if stmt
+- for statement: print result of variable after modified with for stmt that contains another for stmt
+- for statement: print result of variable after modified with for stmt inside a block stmt
+- for statement: print return result of a function that contain for stmt
+- do while statement: print result of variable after modified with a simple do while stmt
+- do while statement: print result of variable after modified with do while stmt that contain another do while stmt
+- do while statement: print result of variable after modified with a simple do while stmt inside a block stmt
+- break statement: print result of a variable after modified with a simple for statement that contain break stmt
+- break statement: print result of a variable after modified with a more complex for statement that contain break stmt
+- break statement: print result of a variable after modified with a simple do while statement that contain break stmt
+- break statement: print result of a variable after modified with a more complex do while statement that contain break stmt
+- break statement: print result of a variable after modified with a more complex do while statement that contain break stmt inside a block stmt
+- continue statement: print result of a variable after modified with a simple for statement that contain continue stmt
+- continue statement: print result of variable after modified with a more complex for statement that contain continue stmt
+- continue statement: print result of variable after modified with a simple do while statement that contain continue stmt
+- return statement: print the result of return in function that return the result of another function
+- return statement: print the result of return in function that using binary operation &&
+- return statement: print the result of return in function that using binary operation ||
+- return statement: print the result of return in function that using binary operation && and short circuit
+Run completed in 4 seconds, 655 milliseconds.
+Total number of tests run: 100
+Suites: completed 1, aborted 0
+Tests: succeeded 100, failed 0, canceled 0, ignored 0, pending 0
+All tests passed.

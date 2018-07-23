@@ -1,0 +1,1 @@
+void man(){int x,y;if(x==2 || y*2+4==5) x=y*x+1;}

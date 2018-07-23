@@ -1,0 +1,1 @@
+int func(int x){return x*3/4-24;}void main(){int x,y[19];x=func(x)/3+ y[x-3*1/(6-2)]*y+8/2;}

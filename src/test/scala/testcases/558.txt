@@ -1,0 +1,1 @@
+void printSum(int a,int b){putIntLn(a+b);}void main (){printSum(3,4);}

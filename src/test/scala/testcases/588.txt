@@ -1,0 +1,1 @@
+int x;void main(){x=2314;{do x=x/2-1;putIntLn(x);while(x>100);}}

@@ -1,0 +1,1 @@
+void main(){int x;string str;str=x+1;}

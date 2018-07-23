@@ -1,0 +1,8 @@
+int main () {
+        float x;
+        x=2;
+        if(x>0){
+            int y;
+            y=x+1;
+        }
+    }

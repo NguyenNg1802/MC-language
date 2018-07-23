@@ -1,0 +1,1 @@
+float a,b;void main(){int a;b=a/1.2+1;a=a-1.1;}

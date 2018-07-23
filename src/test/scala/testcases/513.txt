@@ -1,0 +1,1 @@
+void main () {putFloatLn(-12.1);}

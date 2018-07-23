@@ -1,0 +1,1 @@
+int a[2];void main(){if(a[0]<3 && a[1]==0)a[1]=2;putIntLn(a[1]);}

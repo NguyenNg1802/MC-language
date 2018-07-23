@@ -1,0 +1,1 @@
+int Add(int x){return x+1;}int Func(int x){return x*Add(x);}void main(){Func(1);}

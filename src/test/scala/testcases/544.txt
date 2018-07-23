@@ -1,0 +1,1 @@
+void main(){float a;int b;a=b=2-1;putBoolLn(a<b+1.2 && a+3>b);}

@@ -1,0 +1,3 @@
+void func(int a[]){return a[1];}
+    int main () {
+    }

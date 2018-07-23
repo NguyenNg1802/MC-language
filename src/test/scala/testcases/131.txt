@@ -1,0 +1,6 @@
+boolean x,y;
+    int main () {
+        x=true;y=false;
+        if(x==true || y==true){x=false;y=false;}
+        else x=false;
+    }

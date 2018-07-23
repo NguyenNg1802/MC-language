@@ -1,0 +1,6 @@
+int x;
+    int func(int a){ return a+1;}
+    int main () {
+        x=0;
+        x=func(x);
+    }

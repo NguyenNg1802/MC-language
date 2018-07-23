@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Document\School\NguyenLiNgonNguLapTrinh\Ass4\src\main\mc\codegen\CodeGenerator.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m\/**[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Document\School\NguyenLiNgonNguLapTrinh\Ass4\src\main\mc\codegen\CodeGenerator.scala:8:1: '{' expected but ';' found.[0m
+[0m[[0m[31merror[0m] [0m[0mimport mc.utils._[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

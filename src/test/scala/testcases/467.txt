@@ -1,0 +1,1 @@
+void main(){string x,y;x="Hi";y=" there";x=x+y;}

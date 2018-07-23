@@ -1,0 +1,1 @@
+void main(){string str;str="Hello";str=-str;}

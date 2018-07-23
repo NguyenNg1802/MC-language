@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(Func),List(VarDecl(Id(x),ArrayPointerType(IntType)),VarDecl(Id(y),BoolType)),IntType,Block(List(),List(If(Id(y),Return(Some(Id(x))),None)))),FuncDecl(Id(main),List(),VoidType,Block(List(VarDecl(Id(a),ArrayType(IntLiteral(3),IntType))),List(CallExpr(Id(Func),List(Id(a),BooleanLiteral(true))))))))

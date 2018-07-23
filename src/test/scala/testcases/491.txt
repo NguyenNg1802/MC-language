@@ -1,0 +1,1 @@
+int ifIncrease(int x,boolean y){if(y){return x+1;}else{return x;}}void main(){int x,y;x=ifIncrease(x,y);}

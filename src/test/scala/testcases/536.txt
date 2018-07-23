@@ -1,0 +1,1 @@
+void main(){putFloatLn(2*3.5*2/6*9);}

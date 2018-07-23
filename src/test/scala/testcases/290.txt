@@ -1,0 +1,1 @@
+void main(){float side, surfacearea, volume;surfacearea = 6.0 * side * side;volume = pow(side, 3);}

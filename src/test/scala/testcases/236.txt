@@ -1,0 +1,1 @@
+int Func(int x[]){return 1;}void main(){int x[3];Func(x);}

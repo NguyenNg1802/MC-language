@@ -1,0 +1,1 @@
+void main(){int x,y;string str;if(x>y || x==y)x=x+y;else if(x==y+2 || str)y=y-x;}

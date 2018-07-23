@@ -1,0 +1,6 @@
+int main (){
+        int x;
+        if(x>2=+4){
+            x=x+1;
+        }
+    }

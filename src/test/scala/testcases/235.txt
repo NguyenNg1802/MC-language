@@ -1,0 +1,1 @@
+int Func(boolean x){return 1;}void main(){Func(true);}

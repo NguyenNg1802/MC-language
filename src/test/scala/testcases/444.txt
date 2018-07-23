@@ -1,0 +1,1 @@
+void voidFunc(){return;}void main(){return voidFunc();}

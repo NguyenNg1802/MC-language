@@ -1,0 +1,1 @@
+void main(){int a;for(a=1;a>1;a=a+1){for(a>2;a<3;a=a+1){a=1-3*a;}}}

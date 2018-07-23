@@ -1,0 +1,1 @@
+void main(){int a;a=5;putIntLn(5%2);}

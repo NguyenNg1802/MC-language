@@ -1,0 +1,1 @@
+int getDouble(int a){return a*2;}void main(){putIntLn(getMaxDouble(5,2));}int getMaxDouble(int a,int b){if(a>b)return getDouble(a);return getDouble(b);}

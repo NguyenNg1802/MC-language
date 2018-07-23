@@ -1,0 +1,1 @@
+float a;void main () {putFloatLn(a);}

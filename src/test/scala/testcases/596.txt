@@ -1,0 +1,1 @@
+void main(){int x;x=0;do x=x+1;if(x%2==0)continue;x=2*x;while(x<12);putIntLn(x);}

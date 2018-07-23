@@ -1,0 +1,1 @@
+boolean ifSmallerOrDivBy2(int a,int b){return (a<b) || (a%2==0);}void main(){putBoolLn(ifSmallerOrDivBy2(4,2));} 

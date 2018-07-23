@@ -1,0 +1,1 @@
+void main(){float radius, area, PI;area = PI * pow(radius, 2);}

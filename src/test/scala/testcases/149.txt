@@ -1,0 +1,6 @@
+int func(int x){return x+1;}
+    int main () {
+        int x,y;
+        x=y=1;
+        x=3-2*5=y;
+    }

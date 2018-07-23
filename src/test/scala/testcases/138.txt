@@ -1,0 +1,10 @@
+int x;
+    int main () {
+        x=-1;
+        do{
+            x=x+1;
+            continue;
+            x=5;
+        }
+        while(x<2);
+    }

@@ -1,0 +1,1 @@
+void print1(){putIntLn(1);}void main (){print1();}

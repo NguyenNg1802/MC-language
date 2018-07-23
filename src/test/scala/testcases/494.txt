@@ -1,0 +1,1 @@
+float addNum(float x,float y){return x+y;}void main(){string x;float y,z;y=addNum(x,y);z=addNum(y,z);}

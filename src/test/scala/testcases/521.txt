@@ -1,0 +1,1 @@
+void main () {float a,b;b=2;a=b=b+1.0;putFloatLn(a);putFloatLn(b);}

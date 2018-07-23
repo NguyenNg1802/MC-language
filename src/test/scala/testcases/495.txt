@@ -1,0 +1,1 @@
+int getRemainderOf1st(int x[],int y){return x[0]/y;}void main(){int x[3];float y[2];x[1]=getRemainderOf1st(x,x[0]);x[2]=getRemainderOf1st(y,x[1]);}

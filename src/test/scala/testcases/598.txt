@@ -1,0 +1,1 @@
+boolean ifBiggerAndDivBy2(int a,int b){return (a>b) && (a%2==0);}void main(){putBoolLn(ifBiggerAndDivBy2(5,2));} 

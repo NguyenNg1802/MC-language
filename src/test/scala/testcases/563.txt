@@ -1,0 +1,1 @@
+string arr[2];string[] setArr(string a[]){a[0]="b";a[1]="c";return a;}void main(){arr[0]="a";putStringLn(setArr(arr)[0]);}

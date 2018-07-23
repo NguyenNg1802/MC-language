@@ -1,0 +1,1 @@
+Type Mismatch In Statement: If(BinaryOp(-,BinaryOp(*,Id(x),FloatLiteral(1.2)),IntLiteral(2)),BinaryOp(=,Id(x),BinaryOp(+,Id(x),IntLiteral(1))),None)

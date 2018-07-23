@@ -1,0 +1,1 @@
+float getFirstElem(float x[]){return x[0]+1.2;}void main(){float x[3];boolean y[2];if(y[1])x[2]=getFirstElem(x)+x[0];else x[1]=getFirstElem(y);}

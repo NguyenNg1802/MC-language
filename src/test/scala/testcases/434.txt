@@ -1,0 +1,1 @@
+void main(){float x;string y;do x=2+3/x;while(y);}

@@ -1,0 +1,1 @@
+void main(){putIntLn(36/3/2*4);}

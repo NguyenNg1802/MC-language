@@ -1,0 +1,1 @@
+int sum;void main(){int a;int b;sum(a,b);}

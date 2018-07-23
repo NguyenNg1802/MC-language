@@ -1,0 +1,1 @@
+int A;float A(){return a*2-1;}

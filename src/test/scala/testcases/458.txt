@@ -1,0 +1,1 @@
+void main(){int x;string y,z;if(x==3){if(y==z)x=x+4;}}

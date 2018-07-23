@@ -1,0 +1,2 @@
+abc
+Illegal escape in string: def\k

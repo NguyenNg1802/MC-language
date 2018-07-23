@@ -1,0 +1,1 @@
+void man(){float x,y,z;for(x=0;x<3*z-y;x=x/3+4){y=2*z+3/4;if(z>y+2 || (y>4 && y%2==0)){break;}}}

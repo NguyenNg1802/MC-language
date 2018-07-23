@@ -1,0 +1,1 @@
+void main(){string x;x="my string";x=!x;}

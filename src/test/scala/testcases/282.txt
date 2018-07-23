@@ -1,0 +1,1 @@
+void main(){int a[10],highest,sechighest;highest =0;for(i=0;i<=9;i=i+1){if(a[i]>=highest){sechighest=highest;highest=a[i];}}}

@@ -1,0 +1,1 @@
+float getX(float y, float a,float b){return (y-b)/a;}void main(){float a,b,y;getX(y,a,b);}

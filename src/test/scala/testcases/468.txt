@@ -1,0 +1,1 @@
+void main(){string x;x="Hello";x=x/3;}

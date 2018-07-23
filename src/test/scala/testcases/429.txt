@@ -1,0 +1,1 @@
+void main(){float a;int b;for(a=2;b<3;b=b+2){a=2*b-3;}}

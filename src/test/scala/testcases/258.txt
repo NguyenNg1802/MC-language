@@ -1,0 +1,1 @@
+void main(){int x;do{if(x==0)break;}while(x<5);}

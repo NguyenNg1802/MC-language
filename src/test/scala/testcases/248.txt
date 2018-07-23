@@ -1,0 +1,1 @@
+void main(){int x;do x=x+3;x=x*2;while(x*2<24);}

@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(main),List(),VoidType,Block(List(VarDecl(Id(x),IntType)),List(If(BinaryOp(>=,Id(x),IntLiteral(0)),Block(List(),List(BinaryOp(=,Id(x),BinaryOp(*,Id(x),IntLiteral(2))))),Some(If(BinaryOp(<=,Id(x),UnaryOp(-,IntLiteral(4))),Block(List(),List(BinaryOp(=,Id(x),BinaryOp(-,IntLiteral(3),Id(x))))),None))))))))

@@ -1,0 +1,1 @@
+boolean ifBiggerThan1(int x){if(x>1){return true;}else{false;}}int main(){int x;return ifBiggerThan1(x)[2];}

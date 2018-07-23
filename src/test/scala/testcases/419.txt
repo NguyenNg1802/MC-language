@@ -1,0 +1,1 @@
+int sum1(){int a;a=1;}int sum2(){a=1;}

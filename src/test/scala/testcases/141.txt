@@ -1,0 +1,5 @@
+int a;
+    void Add(){a=a+1;return;}
+    int main () {
+        Add();
+    }

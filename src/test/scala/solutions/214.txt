@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(Func),List(),BoolType,Block(List(),List(Return(Some(BooleanLiteral(true))))))))

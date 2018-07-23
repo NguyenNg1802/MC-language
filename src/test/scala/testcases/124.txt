@@ -1,0 +1,7 @@
+boolean x,y;
+    int main () {
+        x=true;
+        if(!x==false){
+            y=x;
+        }
+    }

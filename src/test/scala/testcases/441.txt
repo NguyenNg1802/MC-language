@@ -1,0 +1,1 @@
+int[] getArray(){int x[2];if(x[0]>1)x[0]=x[0]+1;return x[0];}

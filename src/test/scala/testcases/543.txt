@@ -1,0 +1,1 @@
+void main(){int a[2],b;a[0]=b=2;b=3*a[0]-3;putBoolLn(a[0]<b);}

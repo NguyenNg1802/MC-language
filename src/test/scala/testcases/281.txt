@@ -1,0 +1,1 @@
+void main(){int a[3],max;max=0;for(i=0;i<=2;i=i+1){if(a[i]>max)max=a[i];}}

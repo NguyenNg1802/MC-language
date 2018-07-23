@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Bonuss-MacBook-Pro.local" name="CheckerSuite" tests="100" errors="0" failures="0" skipped="0" time="2.288">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.131-b11"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/nguyen/Documents/Computer science/Bach Khoa university/3rd year_1st semester/Principles of programing language/Ass4"/><property name="java.runtime.version" value="1.8.0_131-b11"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/9j/3hbc7qjx13b2tv1p502xjd7m0000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.13.3"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/nguyen"/><property name="user.timezone" value="Asia/Ho_Chi_Minh"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="user.name" value="nguyen"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_131"/><property name="java.ext.dirs" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="CheckerSuite" name="Redeclared variable with same type and same name" time="0.207">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared variable with different type and same name" time="0.007">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared variable inside a function" time="0.026">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared variable inside a for statement" time="0.436">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared variable use same name as a declared function" time="0.012">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared function with same return type and same name" time="0.013">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared function with different return type and same name" time="0.011">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Reclared function use same name as a declared variable" time="0.015">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared built in function: getInt()" time="0.01">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared built in function: putInt()" time="0.005">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared built in function: putStringLn()" time="0.009">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared parameter with same type and same name" time="0.005">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Redeclared parameter with different type and same name" time="0.045">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier used as a formal integer variable" time="0.011">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier used in if statement" time="0.051">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier used in for statement" time="0.015">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier used in do while statement" time="0.015">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier used outside scope that have same name identifier declaration" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier used in other function" time="0.006">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier: id as array type used without declaration" time="0.019">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared identifier: id of function use as a variable" time="0.013">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared function used as int return type function" time="0.029">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared function used as bool return type function" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Undeclared function: variable id used for a function call" time="0.045">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in if statement: type of conditional expression is int type" time="0.043">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in if statement: type of conditional expression is float type" time="0.087">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in if statement: type of conditional expression is string type" time="0.026">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in for statement: type of first expression is bool type" time="0.02">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in for statement: type of first expression is float type" time="0.031">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in for statement: type of second expression is int type" time="0.024">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in for statement: type of third expression is bool type" time="0.009">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in do while statement: type of conditional expression is int type" time="0.01">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in do while statement: type of conditional expression is float type" time="0.025">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in do while statement: type of conditional expression is string type" time="0.008">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in return statement: return statement type is float while the return type of function is int" time="0.004">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in return statement: return statement type is bool while the return type of function is float" time="0.008">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in return statement: return statement type is string while the return type of function is bool" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in return statement: return statement type is int while the return type of function is array pointer" time="0.02">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in return statement: return statement type is array type of int while the return type of function is array pointer of bool" time="0.033">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in return statement: return statement type is array type of float while the return type of function is array pointer of int" time="0.044">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in statement: return statement type is int while the return type of function is array pointer" time="0.084">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in statement: return statement return nothing while the return type of function is int" time="0.014">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in statement: return statement return boolean while the type of function is void" time="0.048">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in statement: return statement return void while the type of function is void" time="0.013">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in subcripting expression E1[E2]: E1 is int type" time="0.008">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in subcripting expression E1[E2]: E1 is bool type" time="0.033">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in subcripting expression E1[E2]: E1 is float type" time="0.015">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in subcripting expression E1[E2]: E2 is float type" time="0.006">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in subcripting expression E1[E2]: E2 is bool type" time="0.011">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Unary operation ! used on int value" time="0.007">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Unary operation ! used on float value" time="0.007">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Unary operation ! used on string value" time="0.008">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Unary operation - used on bool value" time="0.006">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Unary operation - used on string value" time="0.006">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation || used between 2 int value" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation || used between 2 string value" time="0.009">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation == used between 2 float value" time="0.012">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation == used between 2 string value" time="0.013">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation || used between float and bool value" time="0.009">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation || used between bool and string value" time="0.018">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation &amp;&amp; used between int and bool value" time="0.019">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation % used between 2 float value" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation % used between float and int value" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation % used between 2 stromg value" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation + used between bool and int value" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Binary operation + used between string and int value" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong binary operation + used on 2 string value" time="0.002">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong binary operation / used on 2 string value" time="0.004">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong binary operation / used between int and boolean value" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion between int and float value" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Another wrong assignment coercion between int and float value" time="0.005">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion between int and float values of 2 array" time="0.023">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion in a mix of int and float value" time="0.008">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion in a mix of boolean and float value" time="0.015">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion between boolean and int value" time="0.01">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion between int and string value" time="0.009">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion between 2 array type" time="0.02">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: Wrong assignment coercion array pointer and array type" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression: wrong assignment coercion in a mix of float and int value" time="0.006">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression in statement if" time="0.008">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Another type mismatch in binary expression in statement if" time="0.055">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression in statement for" time="0.005">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Another type mismatch in binary expression in statement for" time="0.004">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression in statement do while" time="0.012">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Another type mismatch in binary expression in statement do while" time="0.023">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression in a complex program" time="0.027">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in binary expression caused by overrided variable" time="0.002">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Another type mismatch in binary expression caused by overrided variable" time="0.003">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: not enough arguments to call corresponding function" time="0.011">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: to much arguments to call corresponding function" time="0.01">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: argument is int while corresponding parameter is bool" time="0.012">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: argument is boolean while corresponding parameter is int" time="0.014">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: argument is float while corresponding parameter is int" time="0.022">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: argument is string while corresponding parameter is float" time="0.007">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: argument is array type of float while corresponding parameter is array pointer type of int" time="0.018">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: argument is array type of int while corresponding parameter is array pointer type of bool" time="0.01">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: argument is array type of bool while corresponding parameter is array pointer type of float" time="0.022">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: call function getInt with an argument of integer" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression: call function putIntLn with no argument" time="0.011">
+                                                 
+                                               </testcase><testcase classname="CheckerSuite" name="Type mismatch in call expression in a complex program" time="0.05">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

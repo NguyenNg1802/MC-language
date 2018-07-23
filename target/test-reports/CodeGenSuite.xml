@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Bonuss-MacBook-Pro.local" name="CodeGenSuite" tests="100" errors="0" failures="0" skipped="0" time="4.248">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.131-b11"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/nguyen/Documents/MC-language"/><property name="java.runtime.version" value="1.8.0_131-b11"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/9j/3hbc7qjx13b2tv1p502xjd7m0000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.13.3"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/nguyen"/><property name="user.timezone" value="Asia/Ho_Chi_Minh"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="user.name" value="nguyen"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_131"/><property name="java.ext.dirs" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="CodeGenSuite" name="print an int" time="0.307">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a float" time="0.047">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print another float" time="0.029">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a string" time="0.044">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a boolean" time="0.026">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a global int variable without assign" time="0.024">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a global float variable without assign" time="0.013">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a global string variable without assign" time="0.014">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a global boolean variable without assign" time="0.016">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a global int array element without assign" time="0.033">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="print a global string array element without assign" time="0.016">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="unary expr: print a negative integer" time="0.02">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="unary expr: print a negative float" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="unary expr: print a not boolean" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a assigned int varible" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a assigned float varible" time="0.024">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print another assigned float varible" time="0.012">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a assigned local array element of integer" time="0.022">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a assigned local array element of string" time="0.063">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of a more complex assignment for int" time="0.018">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of another complex assignment for float" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of another complex assignment" time="0.027">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of + between int,int" time="0.023">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of + between int,int" time="0.018">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of - between int" time="0.022">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of - between int,int" time="0.016">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of + between float,int" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of + between float,int" time="0.016">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of - between float,int" time="0.018">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of +,- between int" time="0.016">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of +,- between float,int" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of binary expr of * between int" time="0.016">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of binary expr of / between int" time="0.02">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of binary expr of / between float" time="0.022">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of *,/ between int" time="0.023">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of *,/ between float" time="0.018">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of +,-,*,/ between int,float" time="0.015">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of a simple binary expr of %" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of binary expr of % and other binary ops" time="0.019">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of more complex binary expr of % and other binary ops" time="0.024">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of a more complex simple binary expr of % and other binary ops" time="0.025">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of &lt; between int" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of &gt; between int" time="0.041">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of &amp;&amp; between simple binary expressions" time="0.032">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of a more complex expr of &amp;&amp; between array element of bool type" time="0.071">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print 2 results of simple binary expr of &amp;&amp; to check short circuit" time="0.051">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of simple binary expr of || between simple binary expressions" time="0.032">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print a result of a more complex expr of || between array element of bool type" time="0.061">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print 3 results of simple binary expr of || to check short circuit" time="0.046">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of a combination of ||,&amp;&amp; to check short circuit" time="0.055">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of simple binary expr of ==" time="0.022">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of more complex binary expr of == with other binary operations" time="0.024">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of simple binary expr of !=" time="0.027">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of more complex simple binary expr of != with other binary operations" time="0.03">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of a complex binary binary expr of !=,== and other binary operations" time="0.151">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="binary expr: print result of another a complex binary binary expr of !=,== and other binary operations" time="0.056">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print 1 using a function call with no input" time="0.053">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print sum of 2 number using a function call with no return" time="0.05">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of a sum of interger using function return result" time="0.071">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of a multiplication of float using function" time="0.076">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of test using integer into float input function" time="0.066">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print a first element of array that is assigned through calling function" time="0.052">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print a second element of a array pointer return by a function" time="0.076">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of test using a result of a function as input to call other function" time="0.061">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print list of smaller numbers than the input value using a simple recursive function" time="0.2">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of a recursive function call" time="0.054">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of sum of two return result of call expr" time="0.076">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of and of two return result of call expr" time="0.089">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of or of two return result of call expr" time="0.067">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="block statement: print value of integer variable inside the block" time="0.038">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="block statement: print value of float variable inside the block" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="block statement: print value of variable inside the nested block" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="if statement: print result of assigned varible using a if stmt without else" time="0.059">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="if statement: print result of assigned variable using a more complex if stmt without else" time="0.108">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="if statement: print result of calling function using a if stmt with else" time="0.102">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="if statement: print 2 result of a more complex if with else" time="0.044">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="if statement: print result varible modified with if statement inside another if stmt without else" time="0.093">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="if statement: print result of varible modified with if statement inside another if stmt with else" time="0.07">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="if statement: print result of variable modified with if statement inside a block statment" time="0.057">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="call expr: print result of boolean using call expr to check if the input is odd number" time="0.054">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="for statement: print result of varible after modified with a simple for stmt" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="for statement: print result of variable after modified with for stmt that contains if stmt" time="0.035">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="for statement: print result of variable after modified with for stmt that contains another for stmt" time="0.024">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="for statement: print result of variable after modified with for stmt inside a block stmt" time="0.02">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="for statement: print return result of a function that contain for stmt" time="0.055">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="do while statement: print result of variable after modified with a simple do while stmt" time="0.034">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="do while statement: print result of variable after modified with do while stmt that contain another do while stmt" time="0.047">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="do while statement: print result of variable after modified with a simple do while stmt inside a block stmt" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="break statement: print result of a variable after modified with a simple for statement that contain break stmt" time="0.024">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="break statement: print result of a variable after modified with a more complex for statement that contain break stmt" time="0.043">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="break statement: print result of a variable after modified with a simple do while statement that contain break stmt" time="0.034">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="break statement: print result of a variable after modified with a more complex do while statement that contain break stmt" time="0.044">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="break statement: print result of a variable after modified with a more complex do while statement that contain break stmt inside a block stmt" time="0.041">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="continue statement: print result of a variable after modified with a simple for statement that contain continue stmt" time="0.033">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="continue statement: print result of variable after modified with a more complex for statement that contain continue stmt" time="0.065">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="continue statement: print result of variable after modified with a simple do while statement that contain continue stmt" time="0.019">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="return statement: print the result of return in function that return the result of another function" time="0.028">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="return statement: print the result of return in function that using binary operation &amp;&amp;" time="0.02">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="return statement: print the result of return in function that using binary operation ||" time="0.017">
+                                                 
+                                               </testcase><testcase classname="CodeGenSuite" name="return statement: print the result of return in function that using binary operation &amp;&amp; and short circuit" time="0.025">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

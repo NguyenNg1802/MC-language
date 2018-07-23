@@ -1,0 +1,1 @@
+int callFunc(){int x,y;return sub(x,y);}int sub(int x,int y){return;}

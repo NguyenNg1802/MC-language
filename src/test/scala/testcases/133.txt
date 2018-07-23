@@ -1,0 +1,6 @@
+int x,y;
+    int main () {
+        x=0;y=0;
+        do{x=x+1;y=y-1;}
+        while(x<2 && y>3);
+    }

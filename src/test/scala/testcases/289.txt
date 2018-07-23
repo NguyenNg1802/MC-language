@@ -1,0 +1,1 @@
+void main(){float a, b,c,perimeter; perimeter= a+b+c;}

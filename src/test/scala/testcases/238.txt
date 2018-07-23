@@ -1,0 +1,1 @@
+int Func(int x[],boolean y){if(y)return x;}void main(){int a[3];Func(a,true);}

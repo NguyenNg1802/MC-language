@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(Add),List(VarDecl(Id(x),IntType)),IntType,Block(List(),List(Return(Some(BinaryOp(+,Id(x),IntLiteral(1))))))),FuncDecl(Id(Func),List(VarDecl(Id(x),IntType)),IntType,Block(List(),List(Return(Some(BinaryOp(*,Id(x),CallExpr(Id(Add),List(Id(x))))))))),FuncDecl(Id(main),List(),VoidType,Block(List(),List(CallExpr(Id(Func),List(IntLiteral(1))))))))

@@ -1,0 +1,1 @@
+int func(int a,boolean b){return 1;}

@@ -1,0 +1,6 @@
+int func(int x){return x+1;}
+    int main () {
+        int x;
+        x=1;
+        x=3*func(x)-4;
+    }

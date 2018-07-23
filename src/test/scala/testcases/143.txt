@@ -1,0 +1,5 @@
+boolean a,b;
+    int main () {
+        a=true;
+        b=!a;
+    }

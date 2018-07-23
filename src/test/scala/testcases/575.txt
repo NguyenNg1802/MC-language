@@ -1,0 +1,1 @@
+int sum(int a,int b){return a+b;}void main(){int a,b;a=2;b=3;if(a-1<b || a*2>b+1) putFloatLn(sum(a,b)); else putFloatLn(mul(a,b));}float mul(float a,float b){return a*b;}

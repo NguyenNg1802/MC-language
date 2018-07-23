@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Bonuss-MacBook-Pro.local" name="AstSuite" tests="100" errors="0" failures="0" skipped="0" time="2.064">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.131-b11"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/nguyen/Documents/Computer science/Bach Khoa university/3rd year_1st semester/Principles of programing language/Ass4"/><property name="java.runtime.version" value="1.8.0_131-b11"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/9j/3hbc7qjx13b2tv1p502xjd7m0000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.13.3"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/nguyen"/><property name="user.timezone" value="Asia/Ho_Chi_Minh"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="user.name" value="nguyen"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_131"/><property name="java.ext.dirs" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="AstSuite" name="a simple program with void as return type of main" time="0.455">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="another simple program with int as return type of main" time="0.037">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="another simple program with bool as return type of main" time="0.102">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a simple program has a simple call putIntLn" time="0.132">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a global variable declaration with int type" time="0.009">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a global variable declaration with boolean type" time="0.003">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a list of global variable declarations with int type" time="0.003">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a list of global variable declarations with int and boolean type" time="0.003">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a list of global variable declaratiosn with boolean and string type" time="0.003">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a global variable declaration with int array type" time="0.004">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a list of global variable declarations with int array type and int type" time="0.002">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a no-paralist function declaration with no return type" time="0.006">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a no-paralist function declaration with int as return type" time="0.018">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a no-paralist function declaration with bool as a return type" time="0.009">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a no-paralist function declaration with int array pointer as a return type" time="0.014">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a function declaration with int type parameter" time="0.006">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a function declaration with string type parameter" time="0.006">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a function declaration with int array pointer type parameter" time="0.007">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a function declaration with int and boolean type parameters" time="0.006">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a function declaration with int array pointer and boolean type parameters" time="0.005">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a local variable declaration with int type" time="0.005">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a list of local variable declarations with bool type" time="0.006">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a list of local variable declarations with int array type and int type" time="0.004">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a local declarations inside a if scoop" time="0.042">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a simple line comment" time="0.003">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a simple block comment" time="0.002">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a variable initialization for int type" time="0.003">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a variable initialization for bool type" time="0.007">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a variable initialization for string type" time="0.007">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a more complex variable initialization for string type" time="0.006">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a variable initialization for array type" time="0.018">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="a more complex variable initialization for array type" time="0.006">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A function call without arguments" time="0.008">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A function call with an int type argument" time="0.012">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A function call with an bool type argument" time="0.009">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A function call with an int array pointer type argument" time="0.024">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A function call with a list of int type arguments" time="0.019">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A function call with a list of int array pointer and bool type arguments" time="0.022">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="More complex function calls with int type argument" time="0.018">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Simple if else without else statement" time="0.013">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A complex if else without else statement" time="0.014">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complex if else without else statement" time="0.019">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Simple if else statement" time="0.018">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A complex if else statement" time="0.012">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complex if else statement" time="0.01">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A simple do while statement" time="0.013">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A complex do while statement" time="0.007">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complex do while statement" time="0.01">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A complex do while statement with if else statement" time="0.021">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complex do while statement with if else statement" time="0.015">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A simple for statement" time="0.008">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A complex for statement with if else statement" time="0.009">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complex for statement with if else statement" time="0.014">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A complex for statement with do while statement" time="0.012">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complex for statement with do while statement" time="0.017">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Do while statement inside another do while statement" time="0.012">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Break statement inside a for statement" time="0.02">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Break statement inside a do while statement" time="0.014">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Continue statement inside a for statement" time="0.01">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Continue statement inside a do while statement" time="0.009">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Return statement for a function caculating sum of 2 integers" time="0.005">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Return statement for a function having no return value" time="0.008">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Return statement for a function checking if the input value is even or not" time="0.012">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Return statement with a mix of expression" time="0.017">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Return statement for a recursive function" time="0.016">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Binary operation add and sub" time="0.007">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Binary operation mul and div" time="0.002">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Binary operation larger or smaller than" time="0.023">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Binary operation larger and smaller than or equal" time="0.142">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Binary operation equal and not equal" time="0.015">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Binary operation and and or" time="0.023">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Unary operation sub and not" time="0.005">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Operation association between mul and plus" time="0.009">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Operation association between div and plus" time="0.008">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Operation association between mul and sub" time="0.004">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Operation association between or and equal" time="0.009">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A simple mixture between operations and statements" time="0.021">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another simple mixture between operations and statements" time="0.007">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="A complex mixture between operations and statements" time="0.017">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complex mixture between operations and statements" time="0.041">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the largest number in an array" time="0.039">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the second largest number in an array" time="0.019">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the smallest number in an array" time="0.011">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the first even number in an array" time="0.015">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the solution x for linear function y=ax+b" time="0.017">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the area of a triangle" time="0.025">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the area of a circle" time="0.01">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the area of a trapezium" time="0.007">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the perimeter of a triangle" time="0.002">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the surface area and volume of a cube" time="0.008">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the total sum of 1 to n" time="0.008">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the total sum of 1 to n*n" time="0.004">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the total sum of 1 to 1/n" time="0.004">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get all the even number in an array" time="0.016">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the mean of three integers" time="0.003">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the mean of n integers" time="0.005">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Get the solution of fibonacci function" time="0.033">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Complex mixture of expressions" time="0.016">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Complicated program" time="0.067">
+                                                 
+                                               </testcase><testcase classname="AstSuite" name="Another complicated program" time="0.036">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

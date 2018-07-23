@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(main),List(),VoidType,Block(List(VarDecl(Id(side),FloatType),VarDecl(Id(surfacearea),FloatType),VarDecl(Id(volume),FloatType)),List(BinaryOp(=,Id(surfacearea),BinaryOp(*,BinaryOp(*,FloatLiteral(6.0),Id(side)),Id(side))),BinaryOp(=,Id(volume),CallExpr(Id(pow),List(Id(side),IntLiteral(3)))))))))

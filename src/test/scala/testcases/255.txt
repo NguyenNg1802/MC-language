@@ -1,0 +1,1 @@
+void main(){int y;for(x=-2;x<=23;x=x*2+4){do{y=y-1;}while(y>2 || y<-5);y=y*3-4;}}

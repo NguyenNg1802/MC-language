@@ -1,0 +1,1 @@
+void main(){int x;x=1;do x=x+1;if(x%2==0 && x>4){x=x+1;{break;}}while(x<9);putIntLn(x);}

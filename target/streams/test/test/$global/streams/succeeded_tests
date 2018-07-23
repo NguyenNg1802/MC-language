@@ -1,0 +1,7 @@
+#Successful Tests
+#Tue Jul 24 00:37:44 ICT 2018
+LexerSuite=1532367383983
+CheckerSuite=1532365745488
+ParserSuite=1532365875239
+CodeGenSuite=1532367464865
+AstSuite=1532365827728

@@ -1,0 +1,1 @@
+Program(List(FuncDecl(Id(Func),List(VarDecl(Id(x),BoolType)),IntType,Block(List(),List(Return(Some(IntLiteral(1)))))),FuncDecl(Id(main),List(),VoidType,Block(List(),List(CallExpr(Id(Func),List(BooleanLiteral(true))))))))

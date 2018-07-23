@@ -1,0 +1,1 @@
+boolean ifBigger(int x,int y){if(x>y) return true; else return false;}void main(){return ifBigger(3,2);}

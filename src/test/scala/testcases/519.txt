@@ -1,0 +1,1 @@
+void main(){string a[3];a[0]="hello";putStringLn(a[0]);}

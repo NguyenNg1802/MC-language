@@ -1,0 +1,1 @@
+boolean bigger(int a,int b){return a>b;}void main(){putBoolLn(bigger(4,3)&&bigger(2,5));}

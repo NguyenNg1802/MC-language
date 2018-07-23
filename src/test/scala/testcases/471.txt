@@ -1,0 +1,1 @@
+int[] getX(){int x[3];return x;} void main(){int x;float y;y=y/x+3;x=1+x/y;}

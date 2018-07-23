@@ -1,0 +1,1 @@
+boolean raiseTrue(){putStringLn("true");return true;} boolean ifBiggerAndSmallerThen10(int a,int b){return (a>b) && (a<10) && raiseTrue();}void main(){putBoolLn(ifBiggerAndSmallerThen10(11,2));} 

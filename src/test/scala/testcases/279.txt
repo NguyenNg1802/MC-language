@@ -1,0 +1,1 @@
+void man(){int x,y,z;if(x>2 || x+3!=5)x=y*z+1;else{z=3-x;}do{z=z+x*2;}while(z<5*x+y-3);}

@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Bonuss-MacBook-Pro.local" name="LexerSuite" tests="100" errors="0" failures="0" skipped="0" time="0.37">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.131-b11"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/nguyen/Documents/MC-language"/><property name="java.runtime.version" value="1.8.0_131-b11"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/9j/3hbc7qjx13b2tv1p502xjd7m0000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.13.3"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/nguyen"/><property name="user.timezone" value="Asia/Ho_Chi_Minh"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="user.name" value="nguyen"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/1.0.0/libexec/bin/sbt-launch.jar"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_131"/><property name="java.ext.dirs" value="/Users/nguyen/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="LexerSuite" name="simple line comment 1" time="0.079">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="simple line comment 2" time="0.004">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="line comment and an identifier in new line" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="traditional block comment 1" time="0.009">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="traditional block comment 2" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="traditional block comment with a new line inside" time="0.005">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="identifier 1" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="identifier 2" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="identifier 3" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="identifier 4" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="identifier 5" time="0.004">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="identifier 6" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word void" time="0.004">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word boolean" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word int" time="0.005">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word float" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word string" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word true" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word false" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word break" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word continue" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word if" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word else" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word for" time="0.004">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word while" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="key word do" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="keyword return" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="keywords and other tokens 1" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="keywords and other tokens 2" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="add operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="sub operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="multiply operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="divide operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="modulus operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="not operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="or operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="and operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="equal operator" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="not equal operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="less than operator" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="greater than operator" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="less than or equal operator" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="greater than or equal operator" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="assign operator" time="0.01">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="several operators 1" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="several operators 2" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="several operators 3" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="operators and other tokens 1" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="operators and and other tokens 2" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="operators and other tokens 3" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="operators and and other tokens 4" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="open and close brackets" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="open and close square brackets" time="0.001">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="open and close parentheses" time="0.001">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="semicolon" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="comma" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="seperators and other tokens 1" time="0.001">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="seperators and other tokens 2" time="0.004">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="simple integer" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 1" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 2" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 3" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 4" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 5" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 6" time="0.004">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 7" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 8" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 9" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 10" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 11" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 12" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 13" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 15" time="0.001">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="float literal 16" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="simple string 1" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="simple string 2" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="several strings" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="backspace in string" time="0.006">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="horizontal tab in string" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="formfeed in string" time="0.001">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="backslash in string" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="newline in string" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="single quote in string" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="double quote in string" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 1" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 2" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 3" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 4" time="0.002">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 5" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 6" time="0.005">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 7" time="0.005">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="error token 8" time="0.005">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="unclosed string 1" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="unclosed string 2" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="unclosed string 3" time="0.006">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="unclosed string 4" time="0.003">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="unclosed string 5" time="0.008">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="illegal escape in string 1" time="0.005">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="illegal escape in string 2" time="0.005">
+                                                 
+                                               </testcase><testcase classname="LexerSuite" name="illegal escape in string 3" time="0.003">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

@@ -1,0 +1,1 @@
+int getBigger(int x,int y){if(x>y)return x;else return y;}void main(){int x,y;x=getBigger(x,y>2);}

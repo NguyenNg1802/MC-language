@@ -1,0 +1,1 @@
+void main(){int a,b,c;float mean;mean=(a+b+c)/3;}

@@ -1,0 +1,1 @@
+boolean a[3];void main(){int b,c;a[1]=true;b=4;c=2*b-3;putBoolLn(b>2 && c<10 && (a[0]=true) && a[1]);}
