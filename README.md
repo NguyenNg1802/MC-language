@@ -4,7 +4,7 @@ The task is that writing a compiler for a programming language named MC.
 
 ## Warning
 ```diff
--This is for reference only.
+-This is for reference only. Do not copy it for your any assignment in class. However, feel free to improve it.
 ```
 
 ## Introduction
